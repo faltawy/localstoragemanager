@@ -1,6 +1,6 @@
 {
   "name": "@ah7255703/localstoragemanager",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "description": "manage the browser localStogare Object ",
   "main": "index.js",
   "license": "MIT"
