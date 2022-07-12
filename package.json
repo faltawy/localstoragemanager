@@ -1,0 +1,7 @@
+{
+  "name": "localstoragemanager",
+  "version": "1.0.0",
+  "description": "manage the browser localStogare Object ",
+  "main": "index.js",
+  "license": "MIT"
+}
